@@ -5,6 +5,10 @@ dev.ucp.print is an international initiative developing specifications to suppor
 The initiative brings together [Initiative Online Print](https://www.initiative-online-print.de), [bvdm](https://www.bvdm-online.de), [Intergraf](https://www.intergraf.eu), [VIGC](https://www.vigc.be), [PRINTING United Alliance](https://www.printing.org), [CIP4](https://www.cip4.org), [Association for PRINT Technologies](https://printtechnologies.org), [dpsuisse](https://dpsuisse.ch), and the [Ghent Workgroup](https://gwg.org).
 
 
+> [!NOTE]
+> **Relationship to UCP** dev.ucp.print is an independent, open initiative developing specifications to enable print procurement through the Universal Commerce Protocol (UCP). The initiative aims to contribute this work for integration into UCP but is not currently an official UCP project or sanctioned extension.
+
+
 ## Why print requires UCP extensions
 
 The [Universal Commerce Protocol (UCP)](https://ucp.dev) provides an open framework for AI agents to discover and purchase products on behalf of users. However, print procurement introduces requirements that are not fully addressed by conventional e-commerce workflows.
